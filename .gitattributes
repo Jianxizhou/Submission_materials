@@ -1,0 +1,4 @@
+GOMOS_Level2.zip filter=lfs diff=lfs merge=lfs -text
+establish[[:space:]]ANN-HASFCM.zip filter=lfs diff=lfs merge=lfs -text
+figure.zip filter=lfs diff=lfs merge=lfs -text
+inverse[[:space:]]with[[:space:]]ANN-HASFCM.zip filter=lfs diff=lfs merge=lfs -text
